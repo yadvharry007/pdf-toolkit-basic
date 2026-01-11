@@ -1,5 +1,5 @@
 # pdf-toolkit-basic
-This app has basic html code for **splitting pdf**, **merging pdf** and **doc to pdf** 
+This app has basic html code for **splitting pdf**, **merging pdf** and **doc to pdf** conversion
 
 ### Split PDF
 ```
